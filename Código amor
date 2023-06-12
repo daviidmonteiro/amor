@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Feliz Dia dos Namorados!</title>
+  <link rel="stylesheet" href="Css.css">
+</head>
+<style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+    background-color: #fde1f0; /* Cor de fundo rosa */
+    background-image: url('https://img.freepik.com/vetores-gratis/coracoes-cor-de-rosa-fundo_1108-136.jpg?w=740&t=st=1686530721~exp=1686531321~hmac=c32379b44edd7521aaa215cfc9a6fbd0d565d68ebaf4c8ef4cf15c38a70d9b38'); /* Imagem de fundo */
+    background-size: cover
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+    h1 {
+  color: #ec065a;
+  text-shadow: 2px 2px 4px rgb(3, 3, 3);
+}
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      color: #f0065c;
+    }
+
+    img {
+      max-width: 50%;
+      height: auto;
+      margin-bottom: 20px;
+    }
+
+    img {
+  border: 2px solid #e82c71;
+  border-radius: 10px;
+}
+
+    p {
+      color: #ebe8e9;
+      font-size: 20px;
+      line-height: 1.5;
+      margin-bottom: 20px;
+      text-shadow: 2px 2px 4px rgb(0, 0, 0);
+}
+    
+
+    @media (max-width: 480px) {
+      h1 {
+        font-size: 24px;
+      }
+
+      p {
+        font-size: 16px;
+      }
+    }
+
+    
+    </style>
+  <div class="container">
+    <h1>Feliz Dia dos Namorados Meu Amor!</h1>
+    <p>Minha Bibi,</p>
+    <p>Hoje é um dia especial dedicado ao amor que compartilhamos. Quero aproveitar esta data para expressar todo o meu carinho e amor por você.</p>
+    <p>Você é a pessoa mais especial na minha vida, e ter você ao meu lado é um presente diário. A cada momento que passamos juntos, meu coração se enche de felicidade.</p>
+    <img src="c:\Users\David S\Documents\Site namorados\imagens\foto2 .jpg" alt="Imagem 2" />
+    <p>Seu sorriso ilumina meus dias, seu abraço me traz paz e seu amor me faz sentir completo. Sou grato por cada momento ao seu lado e por tudo o que construímos juntos.</p>
+    <p>O nosso amor é único e verdadeiro, e eu me sinto abençoado por ter você em minha vida. Que o nosso amor sempre continue a crescer e aprendendo cada dia mais, eu sou sortudo por te ter ao meu lado.</p>
+    <img src="c:\Users\David S\Documents\Site namorados\imagens\foto 3.jpg" alt="Imagem 3" />
+    <p>Com todo o meu amor e carinho.</p>
+    <p>De: Dede</p>
+    <img src="c:\Users\David S\Documents\Site namorados\imagens\foto 1.jpg" alt="Imagem 1" />
+    <div class="container">
+      <!-- Conteúdo anterior... -->
+      
+      <p class="message">"O Amor tudo sofre, tudo crê, tudo espera, tudo suporta."</p>
+    <p>1 Coríntios 13:7</p>
+    </div>
+    
+    
+  </div>
+</body>
+</html>
