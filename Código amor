@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <title>Feliz Dia dos Namorados!</title>
   <link rel="stylesheet" href="Css.css">
+  <script src="https://github.com/daviidmonteiro/amor/scripts.js"></script>
 </head>
 <style>
     body {
